@@ -1,0 +1,34 @@
+.outer{
+	width:800px;
+	height:500px;
+	margin:auto;
+	font-size:0;
+}
+
+.upper{
+	height:200px;
+	width:50%;
+	display:inline-block;
+	border:1px solid black;
+}
+.one{
+	background-color:green;
+}
+.two{
+	background-color:blue;
+}
+.lower{
+	height:300px;
+	width:33.33%;
+	display:inline-block;
+	border:1px solid black;
+}
+.three{
+	background-color:grey;
+}
+.four{
+	background-color:black;
+}
+.five{
+	background-color:orange;
+}
